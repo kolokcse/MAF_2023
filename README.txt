@@ -1,4 +1,4 @@
-# Matematikai algoritmusok és felfedezések
+#Matematikai algoritmusok és felfedezések
 
 Üdvözöllek titeket a Matematikai algoritmusok és felfedezések 1 gyakorlaton!
 
