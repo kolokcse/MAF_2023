@@ -26,7 +26,7 @@ A javítást kihangsúlyoznám! A cél, hogy minél több feladatot jól megoldj
 
 GitHub: https://github.com/kolokcse/MAF_2023
 
-Dropbox: https://www.dropbox.com/sh/bnafzn5dkblvk2u/AACymm47wKGeeEyxMtg7T2Gva?dl=0
+Dropbox: https://www.dropbox.com/sh/uowvk8nm9s27rx2/AACJmOcuAcBHWkP7PKmfvDona?dl=0
 1. gyakorlat: gyak1 mappában.
 
 2. gyakorlat: gyak 2 mappában.
