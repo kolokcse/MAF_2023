@@ -28,3 +28,11 @@ class Pont:
         """
         return (((self.x-other.x) ** 2) + ((self.y -other.y) ** 2)) ** 0.5
     
+    def plot_pont(self):
+        plt.scatter([self.x],[self.y])
+        plt.scatter([0],[0], marker='x')
+        max_coord=max(self.x,self.y)
+        plt.ylim((-2*max_coord,2*max_coord))
+        plt.xlim((-2*max_coord,2*max_coord))
+        
+    
